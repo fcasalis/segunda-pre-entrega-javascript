@@ -1,0 +1,13 @@
+#formulario{
+    width: 300px;
+
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+.botones{
+    display: flex;
+    justify-content: space-between;
+    width: 300px;
+    margin-top: 1rem;
+}
